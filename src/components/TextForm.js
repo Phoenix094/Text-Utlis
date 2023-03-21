@@ -2,6 +2,7 @@ import React, { useState, useRef } from "react";
 import { Container, Form, Button } from "react-bootstrap";
 import Card from "react-bootstrap/Card";
 
+// importing all the logo
 import Overlay from "react-bootstrap/Overlay";
 import Tooltip from "react-bootstrap/Tooltip";
 import copylogo from "../../src/image/copy.png";
